@@ -1,5 +1,5 @@
 {
-  "iri": "http://dataspecer.com/packages/local-root/02fb6bb1-abc8-42aa-a5d4-baca09fca18a/1b0cee33-e9a6-462b-8822-b715956b6606",
+  "iri": "6f1a30a5-97cc-4d1a-a0b7-285d1d238527",
   "projectIri": "cce48530-f989-4bf3-9c3d-f3d1feeb6bfe",
   "types": [
     "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
@@ -11,8 +11,8 @@
     }
   },
   "metadata": {
-    "creationDate": "2026-04-15T06:14:45.061Z",
-    "modificationDate": "2026-04-15T06:15:57.082Z"
+    "creationDate": "2026-04-15T06:16:28.606Z",
+    "modificationDate": "2026-04-15T06:22:49.498Z"
   },
   "_version": 1,
   "_exportVersion": 2,
