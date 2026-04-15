@@ -1745,6 +1745,22 @@
         "visual-relationship"
       ],
       "identifier": "k9qjd"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "ac7fd6f6-80f6-49bc-bcae-f1eca5391e6f",
+      "color": "#6d745d",
+      "identifier": "oua7r"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "d3985e4c-288b-4beb-92dd-c583d3405d55",
+      "color": "#ffffff",
+      "identifier": "cjx1l"
     }
   ]
 }
