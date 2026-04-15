@@ -187,8 +187,8 @@
       "model": "http://dataspecer.com/packages/local-root/02fb6bb1-abc8-42aa-a5d4-baca09fca18a/vocabulary",
       "representedEntity": "https://w3id.org/dsv#PropertyProfile",
       "position": {
-        "x": 1040,
-        "y": 450,
+        "x": 960,
+        "y": 500,
         "anchored": null
       },
       "content": [],
@@ -1745,6 +1745,22 @@
         "visual-relationship"
       ],
       "identifier": "k9qjd"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/02fb6bb1-abc8-42aa-a5d4-baca09fca18a/vocabulary",
+      "color": "#6d745d",
+      "identifier": "oua7r"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/02fb6bb1-abc8-42aa-a5d4-baca09fca18a/2f9279c4-f0dd-4caf-be07-ac11354e88b6",
+      "color": "#ffffff",
+      "identifier": "cjx1l"
     }
   ]
 }
